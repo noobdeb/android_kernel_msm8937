@@ -18,7 +18,6 @@
 *.so
 *.so.dbg
 *.mod.c
-*.i
 *.lst
 *.symtypes
 *.order
@@ -96,3 +95,8 @@ x509.genkey
 
 # Kconfig presets
 all.config
+
+# My Rules
+A306*
+*A306
+*A306*
